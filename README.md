@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 🌱 I'm currently learning android development, SQL programming, web database development, and software engineering. 
 I'm new to Github and still getting acclimated to everything. 
+
 ⚡ Fun fact: I am future-oriented and love to think of a better tomorrow. 
