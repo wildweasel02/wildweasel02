@@ -20,4 +20,6 @@ I'm new to Github and still getting acclimated to everything.
 
 - 🤔 Some topics that I have been already studying for some time include java programming, data structures, and algorithms. 
 
-- ⚡ Fun fact: I am future-oriented and love to think of a better tomorrow. 
+- 🙌 I am future-oriented and love to think of a better tomorrow. 
+
+- ⚡ Fun fact: I like 💃, 🍜, ☕️, 🎶, and 🏖
