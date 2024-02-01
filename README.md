@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently learning android development, sql programming, web database development, and software engineering. 
-I'm new to Github and still getting acclimated to everything. 
+- 🌱 I'm passionate about all-things data. I like to analyze data and find trends and patterns. I like to give meaning to numbers and tell their story.
 
-- 🤔 Some topics that I have been already studying for some time include java programming, data structures, and algorithms. 
+- 📫 Currently developing my sql + python skills for data analysis and have worked with relational and nonrelational databases. 
+
+- 😄 Dabbled into android and web app development for a bit. 
+
+- 🤔 Some topics that I am curious to study include data structures and algorithms as well as analyzing tools like powerBI and Tableau. 
 
 - 🙌 I am future-oriented and love to think of a better tomorrow. 
 
