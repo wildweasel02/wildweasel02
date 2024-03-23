@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 - 🤔 Some topics that I am curious to study include data structures and algorithms as well as analyzing tools like powerBI and Tableau. 
 
 - 🙌 I am future-oriented and love to think of a better tomorrow. 
-
-- ⚡ Fun fact: I like 💃, 🍜, ☕️, 🎶, and 🏖
